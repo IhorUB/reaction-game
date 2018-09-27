@@ -1,0 +1,15 @@
+#shape{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: none;
+    position: relative;
+
+}
+#shape:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+.bold{
+    font-weight: bold;
+}
